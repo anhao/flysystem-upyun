@@ -1,5 +1,5 @@
 {
-    "name": "jellybool/flysystem-upyun",
+    "name": "alapi/flysystem-upyun",
     "description": "Flysystem and Laravel adapter for the Upyun storage.",
     "keywords": ["Laravel","upyun","又拍","又拍云"],
     "license": "MIT",
