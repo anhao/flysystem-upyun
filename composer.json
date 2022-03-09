@@ -7,16 +7,19 @@
         {
             "name": "JellyBool",
             "email": "jellybool@outlook.com"
+        },
+        {
+            "name": "Alone88",
+            "email": "im@alone88.cn"
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "league/flysystem": "^1.0",
+        "php": "^8.0.2",
+        "league/flysystem": "^3.0",
         "alapi/upyun-sdk": "^4.0"
     },
     "require-dev": {
-        "php": ">=5.6.0",
-        "phpunit/phpunit": "~5.7"
+        "phpunit/phpunit": "^9.5.18"
     },
     "autoload": {
         "psr-4": {
